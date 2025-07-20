@@ -1,3 +1,78 @@
+## Key Points
+- Internet Roadtrip is a collaborative online game where players vote to navigate a virtual car using Google Street View, created by Neal Agarwal and launched on May 6, 2025.  
+- It seems likely that the game fosters social interaction, with players voting every 10 seconds on direction, honking, or changing the radio, which streams local stations.  
+- Research suggests the game has gained popularity, notably causing a server overload at a Maine college radio station due to increased listenership.  
+- Player experiences highlight unique features like "teleportation" events and slower highway travel due to decision-making, adding to its appeal.
+
+---
+
+### What is Internet Roadtrip?
+Internet Roadtrip is an engaging online game where players collectively control a virtual car, navigating through real-world locations via Google Street View. Launched on May 6, 2025, by programmer Neal Agarwal, it’s a social experiment that emphasizes collaboration over competition. Players vote every 10 seconds on whether to steer the car left, right, forward, or backward, honk the horn, or change the radio station, which streams from internet radio stations near the current location. The car moves at about 3 mph (4.8 km/h), and its journey is tracked on a mini-map, restricted mainly to North America with some coverage gaps, like in Alaska.
+
+### How Does It Work?
+To play, visit [neal.fun/internet-roadtrip](https://neal.fun/internet-roadtrip/) and start voting with other players in real time. The game interface is simple, with arrows for steering, a steering wheel for honking, and a radio dial for changing stations. Players can communicate via a live chat and a dedicated Discord server, enhancing the social aspect. The collective decision-making can lead to unpredictable routes, and occasional "teleportation" events—where the car jumps locations due to Google Street View data—add an element of surprise.
+
+### Why Is It Popular?
+Internet Roadtrip has gone viral, with thousands of players joining simultaneously. A notable moment was on July 2, 2025, when the virtual car, tuned to WBOR, a college radio station in Maine, caused a massive listenership spike, overwhelming their servers. This incident, among others, showcases the game’s ability to connect players with real-world communities in unexpected ways.
+
+### Unique Features and Player Experiences
+The game’s uniqueness lies in its focus on exploration and social interaction, with no scores or winners—just the joy of discovery. Players have noted that highways can be slower than backroads due to more decision points, and "portals" (sudden location jumps) create exciting detours. With up to 100 players online at once, it feels like a shared digital road trip, with challenges like bot interference occasionally resolved by community moderators.
+
+---
+
+---
+
+## Detailed Survey Note: Comprehensive Analysis of Internet Roadtrip Game
+
+This detailed survey note provides an in-depth exploration of the Internet Roadtrip game, a collaborative online adventure launched on May 6, 2025, by programmer Neal Agarwal. The game leverages Google Street View to create a unique social experiment where players collectively navigate a virtual car, voting on directions, honking, or changing the radio every 10 seconds. This note synthesizes information from various sources, including the game’s official website, Wikipedia, news articles, and player-focused platforms, to offer a comprehensive understanding for researchers, gamers, and enthusiasts.
+
+### Introduction and Background
+Internet Roadtrip, accessible at [neal.fun/internet-roadtrip](https://neal.fun/internet-roadtrip/), is not just a game but a digital journey that redefines online gaming by emphasizing collaboration and real-world exploration. Launched on May 6, 2025, at 16:41 UTC, it runs in a browser and has quickly gained traction for its innovative mechanics. Inspired by projects like Twitch Plays Pokémon and r/place, it invites players to participate in a collective decision-making process, navigating a virtual car through North America using Google Street View data. The game’s creator, Neal Agarwal, has designed it to foster social connections, with features like live chat and a Discord server enhancing player interaction.
+
+### Game Mechanics and Features
+The core gameplay revolves around a voting system where, every 10 seconds, players choose from options such as steering the car (left, right, forward, or back), honking the horn, or changing the radio station. The car moves at approximately 3 mph (4.8 km/h), and its path is tracked on a mini-map with a red line, providing a visual representation of the journey. The game is restricted to North America, with noted gaps in coverage, such as in Alaska, due to the limitations of Google Street View.
+
+Additional features enhance the immersive experience:
+- **Radio Integration**: The car’s radio streams from internet radio stations near the current location, adding a dynamic audio element. For instance, on July 2, 2025, it tuned into WBOR, a college radio station in Maine, leading to a significant listenership spike.
+- **Communication Tools**: Players can communicate via a live chat feature on the website and a dedicated Discord server, with the channel relayed on the site for broader interaction.
+- **Odometer and Speed**: The game includes an odometer to track distance, and its speed of 3 mph ensures a leisurely pace, encouraging exploration over speed.
+
+A table summarizing key game features and how to interact with them is provided below for clarity:
+
+| **Game Feature**                     | **Description**                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------|
+| Virtual Car Navigation                | Uses Google Street View for real-world exploration, restricted to North America. |
+| Voting System                         | Every 10 seconds, vote on direction, honk, or change radio.                     |
+| Radio Streams                         | Plays internet radio stations from the current location.                        |
+| Mini-Map                              | Tracks the car’s path with a red line, located at the bottom left.              |
+| Odometer and Speed                    | Displays distance traveled; car moves at 3 mph (4.8 km/h).                      |
+| Live Chat and Discord                 | Enables player communication for coordination and discussion.                   |
+
+### Popularity and Viral Impact
+Since its launch, Internet Roadtrip has seen significant engagement, with thousands of players participating simultaneously. Its viral nature is evidenced by several high-profile incidents, notably the interaction with WBOR on July 2, 2025. According to a WBUR article, the station experienced a sudden influx of listeners when the virtual car was tuned to their frequency, causing server overloads described by former station manager Mason Daugherty as a "meltdown." This event, covered in detail at [www.wbur.org/hereandnow/2025/07/02/wbor-the-internet-roadtrip](https://www.wbur.org/hereandnow/2025/07/02/wbor-the-internet-roadtrip), underscores the game’s ability to bridge digital and physical worlds, connecting players with real communities.
+
+Another aspect of its popularity is the collective decision-making process, which can lead to both cooperative and chaotic outcomes. For instance, at Bar Harbor, Maine, bots overwhelmed human voters, trapping the car until a Discord moderator implemented a counter bot, and Neal Agarwal added Cloudflare to manage traffic, as noted on the TV Tropes page at [tvtropes.org/pmwiki/pmwiki.php/VideoGame/InternetRoadtrip](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/InternetRoadtrip).
+
+### Player Experiences and Common Themes
+Player experiences highlight the game’s unique blend of strategy, social interaction, and unpredictability. With up to 100 players online at once, it feels like a shared digital road trip, with players using chat to coordinate votes and share discoveries. Common themes include:
+
+- **Democracy Is Flawed**: The collective voting system can be disrupted by bots, as seen in Bar Harbor, Maine, where human decisions were overwhelmed until mitigated by community and creator interventions.
+- **Mind Hive**: The game exemplifies collective control, with players forming a digital "hive mind" through voting and chat, as described on TV Tropes.
+- **Teleportation**: Due to Google Street View’s GPS anomalies, players experience "portals," where the car jumps locations, sometimes over 2,000 miles, such as from Inkerman, New Brunswick, to Denver, Colorado. This is detailed in an unofficial guide at [bit.ly/unofficial-guide](https://bit.ly/unofficial-guide).
+- **Violation of Common Sense**: Game mechanics make highways slower than backroads, as highways offer more lane-switching options, increasing decision points and slowing travel compared to one-lane roads, a finding from player observations on TV Tropes.
+
+These experiences contribute to the game’s dynamic and evolving nature, ensuring no two playthroughs are identical.
+
+### Unique Aspects and Social Experimentation
+Internet Roadtrip’s uniqueness lies in its focus on exploration without competition. There are no scores, boss fights, or high scores—just the joy of discovering hidden gems and iconic landmarks together. The integration of Google Street View allows players to explore authentic locations in real time, from bustling cities to remote landscapes, fostering a sense of connection to the real world.
+
+The game also serves as a social experiment, testing collective decision-making on a large scale. By removing the pressure of winning, it encourages players to enjoy the journey, with every 10-second vote creating spontaneous adventures. This social core, as noted on [geoguessr.io/internet-roadtrip](https://geoguessr.io/internet-roadtrip), sets it apart from traditional multiplayer games, making it accessible and appealing to both seasoned gamers and newcomers.
+
+### Conclusion and Call to Action
+Internet Roadtrip offers a refreshing take on online gaming, blending real-world exploration with collaborative decision-making. Its viral moments, like the WBOR incident, and unique player experiences, such as "portals" and slower highways, highlight its innovative approach. For researchers and enthusiasts, it provides a fascinating case study in digital social dynamics, while for players, it’s an invitation to embark on a shared digital journey.
+
+To join, visit [internet-roadtrip](https://internetroadtrip.com/) and start exploring with players worldwide. Whether you’re discovering a haunted house in Texas or getting lost in a Berlin alley, Internet Roadtrip promises an adventure like no other, with the potential for new stories and connections at every turn.
+
 [mediablogstage.prnewswire.com](https://mediablogstage.prnewswire.com/2015/03/05/grammar-hammer-incent-incentive-incentivize/),
 [sites.gsu.edu](https://sites.gsu.edu/vjohnson30/2016/01/21/passages-from-schindlers-architectural-exclusion/comment-page-5/#comments),
 [www.educa.jcyl.es](https://www.educa.jcyl.es/blogs/es/leyendo/encuentros-autores-fernando-j-lopez),
